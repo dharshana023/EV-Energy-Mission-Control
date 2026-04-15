@@ -1,0 +1,7 @@
+{
+  "name": "EV-Energy Mission Control",
+  "description": "A high-performance optimization suite for EV charging networks and building energy consumption using TOPSIS, Nash Equilibrium, and Markov Chain models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
